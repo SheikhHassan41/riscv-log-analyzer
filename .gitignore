@@ -1,0 +1,11 @@
+# Generated reports and output directory
+output/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor and temporary files
+*.swp
+*~
+.vscode/

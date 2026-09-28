@@ -1,0 +1,4 @@
+[2026-05-01 12:00:00] TEST START: rv32i-xor
+[2026-05-01 12:00:02] TEST FAIL: rv32i-xor (1.20s)
+[2026-05-01 12:00:02] ERROR: Timeout waiting for response
+[2026-05-01 12:05:00] SUMMARY: 1 tests, 0 passed, 1 failed, 0 skipped
